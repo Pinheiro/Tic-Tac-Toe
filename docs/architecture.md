@@ -1,6 +1,7 @@
 ## Overview
-- An open source web app that runs anywhere in a browser.
-- It needs no installation, which makes sharing a link trivial.
+- open source, free, offline
+- runs anywhere in a browser
+- needs no installation
 
 ## Programming Language
 - HTML
@@ -8,10 +9,10 @@
 - JavaScript
 
 ## Storage
-- Use GitHub to store all related files.
+- All files stored in GitHub
 
 ## Change Control
-- Use GitHub for change control, see the workflow document.
+- GitHub, see the workflow document
 
 ## Future Plans
 - Investigate the possibility to implement this solution using a cross-platform framework.<br>
