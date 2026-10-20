@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-An online version of the classic game Tic-Tac-Toe built with GitHub Copilot.<br>
+The classic game Tic-Tac-Toe built with GitHub Copilot.<br>
 
 The user is able to play Tic-Tac-Toe for free from their phone and also from their desktop computer.<br>
 
